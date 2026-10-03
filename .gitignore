@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.env.*
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Dependencies
+node_modules/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & OS files
+*.log
+Thumbs.db
+.DS_Store
